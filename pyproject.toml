@@ -11,7 +11,7 @@ repository = "https://www.github.com/hwchase17/langchain"
 langchain-server = "langchain.server:main"
 
 [tool.poetry.dependencies]
-python = ">=3.8.1,<4.0"
+python = ">=3.7.1,<4.0"
 pydantic = "^1"
 SQLAlchemy = "^1"
 requests = "^2"
